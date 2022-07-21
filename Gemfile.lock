@@ -231,7 +231,7 @@ GEM
     treetop (1.4.12)
       polyglot
       polyglot (>= 0.3.1)
-    tzinfo (0.3.35)
+    tzinfo (0.3.61)
     unicorn (4.5.0)
       kgio (~> 2.6)
       rack
